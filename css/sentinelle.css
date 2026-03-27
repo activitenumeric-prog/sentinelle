@@ -1,0 +1,28 @@
+/**
+ * Styles pour le plugin Sentinelle
+ *
+ * @plugin     Sentinelle
+ * @copyright  2026
+ */
+
+/* Styles généraux du plugin */
+.sentinelle {
+	/* Vos styles ici */
+}
+
+/* Exemple de classe spécifique */
+.sentinelle-container {
+	padding: 1rem;
+	margin: 1rem 0;
+}
+
+.sentinelle-titre {
+	font-size: 1.5rem;
+	font-weight: bold;
+	margin-bottom: 0.5rem;
+}
+
+/* Styles pour les formulaires */
+.formulaire_sentinelle {
+	/* Vos styles de formulaires ici */
+}
